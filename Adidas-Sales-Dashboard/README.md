@@ -1,6 +1,6 @@
-# 📊 Power BI Adidas Sales Dashboard
+# Power BI Adidas Sales Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 
 This Power BI project focuses on Adidas Sales Analysis using interactive visualizations to generate business insights. The dashboard is designed for beginners to intermediate-level users who want to explore Power BI functionalities while working on real-world sales data.
 ![Screenshot Adidas Dashboard](https://github.com/amgfigueiredo/Power-BI-Dashboards/blob/a9e5221f9e3e180e55732554eb4b2817568bf28e/Adidas-Sales-Dashboard/Adidas_Sales_Dashboard_Screenshot.png)

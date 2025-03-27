@@ -3,7 +3,7 @@
 ## Overview
 This Power BI dashboard provides key HR analytics insights, allowing users to explore workforce trends, employee demographics, and performance metrics. The interactive dashboard helps HR teams make data-driven decisions to optimize workforce planning and management.
 
-![Screenshot HR Dashboard](https://github.com/amgfigueiredo/Power-BI-Dashboards/blob/71651dacf8f7ee83a568249ea057a21b5e458597/Human-Resources/PowerBI_HR_Dashboard_Home.png)
+![Screenshot HR Dashboard](https://github.com/amgfigueiredo/Power-BI-Dashboards/blob/3b19ff1d6819d7e022ebcddf15640d14f5ad5873/Human-Resources/PowerBI_HR_Dashboard.gif)
 
 
 

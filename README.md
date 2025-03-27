@@ -1,5 +1,7 @@
 # Power BI Dashboards
 
+- **Power BI Dax CheatSheet** A comprehensive reference for DAX (Data Analysis Expressions) functions used in Power BI, Excel, and Analysis Services. This repository contains a categorized list of essential DAX functions along with their descriptions. [Link to DAX CheatSheet >>](https://github.com/amgfigueiredo/Power-BI-Dashboards/blob/main/power-bi-cheatsheet.md)
+ 
 - **Adidas Sales Dashboard:** This Power BI project focuses on Adidas Sales Analysis using interactive visualizations to generate business insights. The dashboard is designed for beginners to intermediate-level users who want to explore Power BI functionalities while working on real-world sales data. [Link to Dashboard >>](https://github.com/amgfigueiredo/Power-BI-Dashboards/tree/main/Adidas-Sales-Dashboard)
 
   

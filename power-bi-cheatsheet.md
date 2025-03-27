@@ -41,6 +41,12 @@ A comprehensive reference for DAX (Data Analysis Expressions) functions used in 
 - `YEAR(date)` - Returns the year.
 - `WEEKNUM(date)` - Returns the week number in a year.
 - `QUARTER(date)` - Returns the quarter number of the year.
+- `DATEADD(dates, number_of_intervals, interval)` - Moves a date by a specified interval.
+- `DATESBETWEEN(dates, start_date, end_date)` - Returns dates between two specified dates.
+- `TOTALYTD(expression, dates, [filter], [year_end_date])` - Returns the year-to-date value.
+- `SAMEPERIODLASTYEAR(dates)` - Returns a column of dates shifted one year back.
+- `STARTOFMONTH(dates)` - Returns the start of the month.
+- `ENDOFMONTH(dates)` - Returns the end of the month.
 
 ## Logical
 - `IF(condition, value_if_true, [value_if_false])` - Returns a value based on a condition.
@@ -81,14 +87,6 @@ A comprehensive reference for DAX (Data Analysis Expressions) functions used in 
 - `UNION(table1, table2, ...)` - Combines multiple tables with matching columns.
 - `NATURALINNERJOIN(left_table, right_table)` - Joins tables using an inner join.
 - `NATURALLEFTOUTERJOIN(left_table, right_table)` - Joins tables using a left outer join.
-
-## Time Intelligence
-- `DATEADD(dates, number_of_intervals, interval)` - Moves a date by a specified interval.
-- `DATESBETWEEN(dates, start_date, end_date)` - Returns dates between two specified dates.
-- `TOTALYTD(expression, dates, [filter], [year_end_date])` - Returns the year-to-date value.
-- `SAMEPERIODLASTYEAR(dates)` - Returns a column of dates shifted one year back.
-- `STARTOFMONTH(dates)` - Returns the start of the month.
-- `ENDOFMONTH(dates)` - Returns the end of the month.
 
 ## Information
 - `ISBLANK(value)` - Checks if a value is blank.
